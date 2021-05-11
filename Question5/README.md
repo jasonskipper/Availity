@@ -1,4 +1,4 @@
-# How to Run: 
-Please run the following commands: 
+# How to run: 
+Please run the following commands:  
 ### `npm install`
 ### `npm start`
